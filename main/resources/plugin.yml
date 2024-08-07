@@ -1,0 +1,12 @@
+main: xyz.theillusions.App
+name: CardinalSystem
+version: 1.5.6
+author: Illusions
+commands:
+  portal:
+    description: Portals command
+    usage: /portal create/remove/link/unlink/list
+  broadcast:
+    description: Broadcast a message to the server
+    usage: /broadcast <message>
+api-version: '1.20'
