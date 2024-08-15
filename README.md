@@ -19,4 +19,4 @@ The **Cardinal Minecraft Plugin** is a custom-built Minecraft server plugin that
    Clone the repository or download the latest release:
 
    ```bash
-   git clone https://github.com/yourusername/cardinal-minecraft-plugin.git
+   git clone https://github.com/MahdiOsman/minecraft-cardinal-system.git
